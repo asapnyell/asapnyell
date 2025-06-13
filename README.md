@@ -1,9 +1,8 @@
-## 👋 Hi there, 
-### I'm Danyel Henrique
+## 👋 Hi there, I'm Danyel Henrique
 
- #Estudante de **Sistemas de Informação**. 
+ # Estudante de **Sistemas de Informação**. 
    Desenvolvedor, sempre em busca de aprendizado e 
-    evolução constante na área de tecnologia.
+    evolução constante na área de tecnologia. #
 
 --- 
   
