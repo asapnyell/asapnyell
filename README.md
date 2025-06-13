@@ -1,9 +1,11 @@
 ## 👋 Hi there, I'm Danyel Henrique
 
- Atualmente estudante de **Sistemas de Informação**.\n
- Desenvolvedor, sempre em busca de aprendizado e 
-    evolução constante na área de tecnologia.
-    Estou focado em construir uma base sólida em **Java Backend**.
+Atualmente estudante de **Sistemas de Informação**.
+
+Desenvolvedor, sempre em busca de aprendizado e 
+evolução constante na área de tecnologia.
+
+Estou focado em construir uma base sólida em **Java Backend**.
 
   
 
@@ -24,6 +26,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+
+### 📚 Atualmente Estudando
+
+- Desenvolvimento Backend com **Java + Spring Boot**    
+- **Automação de tarefas com Python**  
+- **Git e GitHub** para versionamento
 
 
 
