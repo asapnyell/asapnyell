@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  # Olá, eu sou o Danyel 👋
+  Olá, eu sou o Danyel 👋
 
 🎓 Estudante de **Sistemas de Informação**  
 💻 Desenvolvedor, sempre em busca de aprendizado e evolução constante na área de tecnologia
