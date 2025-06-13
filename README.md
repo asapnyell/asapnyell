@@ -1,11 +1,11 @@
 ## 👋 Hi there, I'm Danyel Henrique
 
-Atualmente estudante de **Sistemas de Informação**.
+👨🏾‍🎓 Atualmente estudante de **Sistemas de Informação**.
 
-Desenvolvedor, sempre em busca de aprendizado e 
+👨🏾‍💻 Desenvolvedor, sempre em busca de aprendizado e 
 evolução constante na área de tecnologia.
 
-Estou focado em construir uma base sólida em **Java Backend**.
+🛠️ Estou focado em construir uma base sólida em **Full Stack Developer**.
 
   
 
