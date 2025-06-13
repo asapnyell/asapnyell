@@ -1,4 +1,5 @@
-## 👋 Hi there, I'm Danyel Henrique
+## 👋 Hi there, 
+I'm Danyel Henrique
 
   🎓💻 Estudante de **Sistemas de Informação** , Desenvolvedor, sempre em busca de aprendizado e evolução constante na área de tecnologia.
 
@@ -7,7 +8,7 @@
   ### 📬 Contato
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danyel-henrique-0880711a2/)](https://www.linkedin.com/in/danyel-henrique-0880711a2/)
-  [![Gmail Badge](https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danyel.henrique00@gmail.com)](mailto:danyel.henrique00@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-danyel.henrique00@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danyel.henrique00@gmail.com)](mailto:danyel.henrique00@gmail.com)
 
 ---
 
