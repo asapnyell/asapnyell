@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Danyel Henrique
 
-👨🏾‍🎓 Atualmente estudante de **Eng. Software**.
+👨🏾‍🎓 Atualmente estudante de **Sistemas de Informação**.
 
 👨🏾‍💻 Desenvolvedor, sempre em busca de aprendizado e 
 evolução constante na área de tecnologia.
