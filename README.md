@@ -1,6 +1,7 @@
 ## Hi there 👋
 
   Olá, eu sou o Danyel 👋
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danyel-henrique-0880711a2/)](https://www.linkedin.com/in/danyel-henrique-0880711a2/)
 
 🎓 Estudante de **Sistemas de Informação**  
 💻 Desenvolvedor, sempre em busca de aprendizado e evolução constante na área de tecnologia
