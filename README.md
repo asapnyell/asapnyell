@@ -7,15 +7,6 @@ evolução constante na área de tecnologia.
 
 🛠️ Estou focado em construir uma base sólida em **Full Stack Developer**.
 
-  
-
---- 
-  
-### 📬 Contato
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danyel-henrique-0880711a2/)](https://www.linkedin.com/in/danyel-henrique-0880711a2/)
-[![Gmail Badge](https://img.shields.io/badge/-danyel.henrique00@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danyel.henrique00@gmail.com)](mailto:danyel.henrique00@gmail.com)
-
 ---
 
 ### 💼 Tecnologias e Ferramentas
@@ -33,7 +24,13 @@ evolução constante na área de tecnologia.
 - **Automação de tarefas com Python**  
 - **Git e GitHub** para versionamento
 
+---
+### 📬 Contato
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danyel-henrique-0880711a2/)](https://www.linkedin.com/in/danyel-henrique-0880711a2/)
+[![Gmail Badge](https://img.shields.io/badge/-danyel.henrique00@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danyel.henrique00@gmail.com)](mailto:danyel.henrique00@gmail.com)
 
+---
 
 <div align="left">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapnyell&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
