@@ -1,5 +1,5 @@
 ## 👋 Hi there, 
-###I'm Danyel Henrique
+### I'm Danyel Henrique
 
   🎓💻 Estudante de **Sistemas de Informação** , Desenvolvedor, sempre em busca de aprendizado e evolução constante na área de tecnologia.
 
@@ -12,7 +12,7 @@
 
 ---
 
- 💼 Tecnologias e Ferramentas
+ ### 💼 Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
