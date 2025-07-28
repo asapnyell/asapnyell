@@ -34,10 +34,6 @@ evolução constante na área de tecnologia.
 
 ---
 
-<div align="left">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapnyell&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
- </div>
-
  <div align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapnyell&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&card_width=300"
