@@ -22,7 +22,8 @@ evolução constante na área de tecnologia.
 
 ### 📚 Atualmente Estudando
 
-- Desenvolvimento Backend com **Java + Spring Boot**    
+- Desenvolvimento Backend com **Java + Spring Boot**
+- **JavaScript**   
 - **Automação de tarefas com Python**  
 - **Git e GitHub** para versionamento
 
