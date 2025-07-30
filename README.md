@@ -29,7 +29,7 @@ evolução constante na área de tecnologia.
 
 ---
 ### 📬 Contato
-<div class"badge-base Li-profile-badge" data-locale="pt-BR" data-size="medium" data-theme="dark" data-version="v1><a class="badge-base__link Li-simple-link" href="https://br.linkedin.com/in/danyel-henrique-0880711a2?trk=profile-badge" >Danyel Henrique</a></div>
+<div class="badge-base Li-profile-badge" data-locale="pt-BR" data-size="medium" data-theme="dark" data-version="v1><a class="badge-base__link Li-simple-link" href="https://br.linkedin.com/in/danyel-henrique-0880711a2?trk=profile-badge" >Danyel Henrique</a></div>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/danyel-henrique-0880711a2/)](https://www.linkedin.com/in/danyel-henrique-0880711a2/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:danyel.henrique00@gmail.com)](mailto:danyel.henrique00@gmail.com)
 
