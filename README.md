@@ -30,7 +30,7 @@ evolução constante na área de tecnologia.
 ---
 ### 📬 Contato
 
-[![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)=https://www.linkedin.com/in/danyel-henrique-0880711a2/)](https://www.linkedin.com/in/danyel-henrique-0880711a2/)
+[![LinkedIn](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:danyel.henrique00@gmail.com)](mailto:danyel.henrique00@gmail.com)
 
 ---
