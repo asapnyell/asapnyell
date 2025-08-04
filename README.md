@@ -31,7 +31,7 @@ evolução constante na área de tecnologia.
 ### 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyel-henrique-0880711a2/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:asapnyel@icloud.com)](mailto:asapnyel@icloud.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:asapnyel@icloud.com)]
 
 ---
 
