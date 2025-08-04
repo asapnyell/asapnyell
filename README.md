@@ -15,6 +15,7 @@ evolução constante na área de tecnologia.
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
@@ -22,7 +23,7 @@ evolução constante na área de tecnologia.
 ### 📚 Atualmente Estudando
 
 - Desenvolvimento Backend com **Java + Spring Boot**
-- Desenvolvimento Frontend com **React**   
+- Desenvolvimento Frontend com **React + Tailwind CSS**   
 - **Automação de tarefas com Python**  
 - **Git e GitHub** para versionamento
 
