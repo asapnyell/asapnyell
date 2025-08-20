@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Danyel Henrique
+## 👋 I'm Danyel Henrique .
 
 👨🏾‍🎓 Atualmente estudante de **Sistemas de Informação** (UniAcademia).
 
@@ -26,7 +26,7 @@ evolução constante na área de tecnologia.
 ### 📚 Atualmente Estudando
 
 - Desenvolvimento Backend com **Java + Spring Boot**
-- Desenvolvimento Frontend com **React + Tailwind CSS**    
+- Desenvolvimento Frontend com **React + Tailwind CSS + TypeScript**    
 - **Git e GitHub** para versionamento
 
 ---
