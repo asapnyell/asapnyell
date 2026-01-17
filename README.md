@@ -38,4 +38,4 @@ evolução constante na área de tecnologia.
 
 ---
 
- ![Asapnyel's GitHub stats](https://github-readme-stats.vercel.app/api?username=asapnyell&show_icons=true&theme=radical)
+![Asapnyel's GitHub stats](https://github-readme-stats.vercel.app/api?username=asapnyell&show_icons=true&theme=radical)
