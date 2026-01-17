@@ -1,9 +1,8 @@
-## 👋 I'm Danyel Henrique .
+## 👋 I'm Danyel Henrique.
 
 👨🏾‍🎓 Atualmente estudante de **Sistemas de Informação** (UniAcademia).
 
-👨🏾‍💻 Desenvolvedor, sempre em busca de aprendizado e 
-evolução constante na área de tecnologia.
+👨🏾‍💻 Desenvolvedor, sempre em busca de aprendizado e evolução constante na área de tecnologia.
 
 🛠️ Estou focado em construir uma base sólida em **Full Stack Developer**.
 
@@ -25,19 +24,21 @@ evolução constante na área de tecnologia.
 
 ### 📚 Atualmente Estudando
 
-- Desenvolvimento Backend com **Java + Spring Boot**
-- Desenvolvimento Frontend com **React + Tailwind CSS + TypeScript**
-- Banco de Dados **SQL and NoSQL**    
-- **Git e GitHub** para versionamento
+- ☕ Desenvolvimento Backend com **Java + Spring Boot**
+- ⚛️ Desenvolvimento Frontend com **React + Tailwind CSS + TypeScript**
+- 🗄️ Banco de Dados **SQL and NoSQL**
+- 🐙 **Git e GitHub** para versionamento
 
 ---
+
 ### 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyel-henrique-0880711a2/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:asapnyel@icloud.com)
+[![Email](https://img.shields.io/badge/Email-363636?style=flat&logo=icloud&logoColor=white)](mailto:asapnyel@icloud.com)
 
 ---
 
-![Asapnyell's GitHub stats](https://github-readme-stats.vercel.app/api?username=asapnyell&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asapnyell&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&card_width=300)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asapnyell&show_icons=true&theme=radical" alt="Asapnyel's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapnyell&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&card_width=300" alt="Top Languages" height="180"/>
+</div>
