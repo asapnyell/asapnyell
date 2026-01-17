@@ -1,10 +1,9 @@
-## 👋 I'm Danyel Henrique.
+## 👋 I'm Danyel Henrique, Full Stack Developer.
 
-👨🏾‍🎓 Atualmente estudante de **Sistemas de Informação** (UniAcademia).
+👨🏾‍🎓 Estudante de **Sistemas de Informação** (UniAcademia).
 
 👨🏾‍💻 Desenvolvedor, sempre em busca de aprendizado e evolução constante na área de tecnologia.
 
-🛠️ Estou focado em construir uma base sólida em **Full Stack Developer**.
 
 ---
 
@@ -40,5 +39,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=asapnyell&theme=radical&mode=weekly" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asapnyell&show_icons=true&theme=radical" alt="Asapnyel's GitHub stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapnyell&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&card_width=300" alt="Top Languages" />
 </div>
