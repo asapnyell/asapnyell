@@ -38,4 +38,8 @@ evolução constante na área de tecnologia.
 
 ---
 
-![Asapnyel's GitHub stats](https://github-readme-stats.vercel.app/api?username=asapnyell&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asapnyeldev&show_icons=true&theme=radical" alt="Asapnyel's GitHub stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapnyeldev&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&card_width=300" alt="Top Languages" />
+</div>
