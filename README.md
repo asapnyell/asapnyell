@@ -38,6 +38,9 @@
 
 ---
 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=asapnyell&theme=radical&mode=weekly)
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapnyell&layout=compact&theme=dracula&show_icons=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=asapnyell&theme=radical&no-frame=true&margin-w=4" />
 </div>
