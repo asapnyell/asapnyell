@@ -26,7 +26,8 @@ evolução constante na área de tecnologia.
 ### 📚 Atualmente Estudando
 
 - Desenvolvimento Backend com **Java + Spring Boot**
-- Desenvolvimento Frontend com **React + Tailwind CSS + TypeScript**    
+- Desenvolvimento Frontend com **React + Tailwind CSS + TypeScript**
+- Banco de Dados **SQL and NoSQL**    
 - **Git e GitHub** para versionamento
 
 ---
@@ -37,9 +38,4 @@ evolução constante na área de tecnologia.
 
 ---
 
- <div align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapnyell&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&card_width=300"
-    width="300"
-    alt="Top Languages" />
-</div>
+ ![Asapnyel's GitHub stats](https://github-readme-stats.vercel.app/api?username=asapnyell&show_icons=true&theme=radical)
