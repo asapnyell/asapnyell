@@ -39,8 +39,6 @@
 ---
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=asapnyell&theme=radical&mode=weekly)
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asapnyell&theme=radical&no-frame=true&margin-w=4" />
+  <img src="https://streak-stats.demolab.com?user=asapnyell&theme=radical&mode=weekly" alt="GitHub Streak" />
 </div>
