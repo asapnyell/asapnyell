@@ -39,10 +39,14 @@
 
 
 <div align="center">
-  <!-- Estatísticas Gerais (Com correção de fetch) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=asapnyell&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub stats" />
-  
-  <!-- Top Linguagens (Versão compacta e estável) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapnyell&layout=compact&theme=radical&hide_border=true&title_color=8f00ff&cache_seconds=1800" alt="Top Languages" />
+  <!-- Estatísticas Gerais - Usando instância alternativa estável -->
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=asapnyell&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+
 </div>
 
+<br/>
+
+<div align="center">
+  <!-- Streak Stats (Mostra sua constância de commits, muito bom para o perfil) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asapnyell&theme=radical" alt="GitHub Streak" />
+</div>
