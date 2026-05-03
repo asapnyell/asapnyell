@@ -39,20 +39,10 @@
 
 
 <div align="center">
-
-  <!-- Estatísticas Gerais (GitHub Readme Stats) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asapnyell&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-
-  <!-- Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapnyell&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
-
-  <br/>
-
-  <!-- Badges de Tecnologias (Shields.io - Não quebram) -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
+  <!-- Estatísticas Gerais (Com correção de fetch) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=asapnyell&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub stats" />
+  
+  <!-- Top Linguagens (Versão compacta e estável) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapnyell&layout=compact&theme=radical&hide_border=true&title_color=8f00ff&cache_seconds=1800" alt="Top Languages" />
 </div>
+
