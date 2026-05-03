@@ -39,9 +39,7 @@
 
 
 <div align="center">
-  <!-- Estatísticas Gerais - Usando instância alternativa estável -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=asapnyell&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
-
+  <img src="https://metrics.lecoq.io/asapnyell?template=classic&base.header=0&base.activity=0&base.community=0&display=regular&theme=radical" alt="Metrics" />
 </div>
 
 <br/>
