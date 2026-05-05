@@ -1,9 +1,14 @@
 # Olá, I'm Danyel Henrique! 👋
 
-### 👨🏾‍💻 Full Stack Developer | Estudante de Sistemas de Informação
+### 👨🏾‍💻 Full Stack Developer | Graduando em Sistemas de Informação
 
+Sou um desenvolvedor em transição de carreira, focado em construir soluções digitais eficientes unindo a experiência profissional que já possuo com a formação técnica em **Sistemas de Informação pela UniAcademia.** Meu foco é o desenvolvimento de soluções Full Stack modernas, robustas e escaláveis.
 
+Como um profissional em transição de carreira, ofereço um diferencial competitivo: a **maturidade profissional** somada à sede de aprendizado técnico. Tenho facilidade em me adaptar a novos desafios e foco total na entrega de valor através do código.
 
+---
+### 🎯 Objetivo Profissional
+Estou em busca da minha primeira oportunidade como **Desenvolvedor Junior**, pronto para somar com minha dedicação e competência técnica em projetos de impacto.
 
 ---
 
