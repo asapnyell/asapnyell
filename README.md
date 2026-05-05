@@ -1,14 +1,15 @@
-## 👋 I'm Danyel Henrique, Full Stack Developer.
+# Olá, I'm Danyel Henrique! 👋
 
-👨🏾‍🎓 Estudante de **Sistemas de Informação** (UniAcademia).
+### 👨🏾‍💻 Full Stack Developer | Estudante de Sistemas de Informação
 
-👨🏾‍💻 Desenvolvedor, sempre em busca de aprendizado e evolução constante na área de tecnologia.
+
 
 
 ---
 
-### 💼 Tecnologias e Ferramentas
-### Linguagens de Programação:
+### 🛠 Tecnologias e Ferramentas
+
+#### 🚀 Linguagens de Programação
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -16,9 +17,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
 
-### Frameworks e Bibliotecas:
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+#### 📚 Frameworks e Bibliotecas
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
@@ -45,8 +46,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:asapnyel.dev@gmail.com)
 
 ---
-
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asapnyell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapnyell&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+<br/>
 <div align="center">
   <img src="https://metrics.lecoq.io/asapnyell?template=classic&base.header=0&base.activity=0&base.community=0&display=regular&theme=radical" alt="Metrics" />
 </div>
