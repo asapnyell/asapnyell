@@ -51,16 +51,7 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Junior**, pro
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:asapnyel.dev@gmail.com)
 
 ---
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asapnyell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asapnyell&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-<br/>
-<div align="center">
-  <img src="https://metrics.lecoq.io/asapnyell?template=classic&base.header=0&base.activity=0&base.community=0&display=regular&theme=radical" alt="Metrics" />
-</div>
 
-<br/>
 
 <div align="center">
   <!-- Streak Stats (Mostra sua constância de commits, muito bom para o perfil) -->
