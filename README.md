@@ -59,5 +59,5 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Junior**, pro
 </div>
 
 <div align="center">
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=asapnyell&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>  
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=asapnyell&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+</div>
