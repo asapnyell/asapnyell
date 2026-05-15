@@ -52,8 +52,12 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Junior**, pro
 
 ---
 
+![](https://github-readme-stats.shion.dev/api?username=asapnyell&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
 <div align="center">
   <!-- Streak Stats (Mostra sua constância de commits, muito bom para o perfil) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asapnyell&theme=radical" alt="GitHub Streak" />
 </div>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=asapnyell&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
